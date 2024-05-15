@@ -1,0 +1,72 @@
+h1 {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: 30px;
+  position: relative;
+  left: 35%;
+}
+
+h4 {
+  right: -75%;
+  position: relative;
+}
+
+h2 {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: 30px;
+  left: 8%;
+  position: relative;
+  bottom: -17px;
+}
+
+li {
+  left: 8%;
+  position: relative;
+  bottom: -10px;
+}
+
+div.title {
+  border: 1px outset black;
+  width: 101%;
+  position: relative;
+  color: black;
+  left: -1%;
+  bottom: 18px;
+}
+
+div.slowroadsbutton {
+  position: relative;
+}
+
+div.textbox {
+  background-color: #ebebeb;
+  width: 80%;
+  position: relative;
+  height: 500px;
+  bottom: 19px;
+  left: -1%;
+}
+
+img.epicimage1 {
+  left: 70%;
+  position: relative;
+  width: 60%;
+  height: 60%;
+}
+
+html {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+h3 {
+  font-size: 15px;
+  text-align: center;
+}
+
+li {
+  text-align: left;
+}
+
+html, body {
+  overflow-x: hidden;
+  max-width: 100%;
+}
